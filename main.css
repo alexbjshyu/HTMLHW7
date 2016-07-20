@@ -83,11 +83,12 @@ body {
     padding: 15px;
 }
 .footer {
-    background-color: white;
-    color: #ff0000 ;
+    background-color: Gold ;
+    color: MidnightBlue ;
     text-align: center;
     font-size: 12px;
     padding: 15px;
+    clear:both;
 }
 .menu{
    background-color: #eee ;
@@ -112,6 +113,9 @@ body {
     color: #ffffff;
     text-align: center;
     font-size: 14px;
+}
+* {
+  font-family: lato;
 }
 @media screen and (max-width:767px){
 .col-xs-1 {width: 8.33%;}
